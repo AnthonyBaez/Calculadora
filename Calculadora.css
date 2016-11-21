@@ -1,0 +1,134 @@
+html {
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-image: url("http://2.bp.blogspot.com/-X25adgi6gCk/Ucjb3nxiCYI/AAAAAAAAGR4/SGFWYc3TXBg/s1600/Descargar+Pack+Fondos+de+escritorio+Animacion+HD+(343).jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	font-family: cursive;
+	font-size: 60px;
+	color: red;
+}
+#tabla{
+	height: 50px;
+	width: 345px;
+	border-color: black;
+	font-size: 40px;
+	color: red;
+}
+#uno{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+
+#dos{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+
+}
+#tres{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#cuatro{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#cinco{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#seis{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#siete{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#ocho{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#nueve{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#suma{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#resta{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#multi{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#divi{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#igual{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#cero{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#punto{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#igual{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
+#borrar{
+	height: 60px;
+	width: 60px;
+	font-size: 40px;
+	color: red;
+}
